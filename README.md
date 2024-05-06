@@ -39,6 +39,10 @@ mkdir %userprofile%\Desktop\MyLab
 ## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
+cd %userprofile%\Desktop\MyLab
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/d27849bc-c467-4873-8c79-f7428a160e8c)
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/1fa80caf-e9f6-43b8-ae3b-32796202e14c)
+
 
 
 ## COMMAND AND OUTPUT
