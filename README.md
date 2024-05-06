@@ -32,6 +32,8 @@ Create a directory named "MyLab" on the desktop.
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/e20f8141-6596-43d5-b989-2d2dab0d0dda)
+
 
 ## COMMAND AND OUTPUT
 
