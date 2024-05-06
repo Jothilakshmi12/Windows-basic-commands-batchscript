@@ -48,6 +48,8 @@ cd %userprofile%\Desktop\MyLab
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
+dir %userprofile%\Desktop\MyLab
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/40de307a-60ec-44ed-a9d2-94ed73c8d346)
 
 ## COMMAND AND OUTPUT
 
