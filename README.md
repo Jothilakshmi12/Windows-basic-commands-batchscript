@@ -72,17 +72,21 @@ mv Myfile.txt %userprofile%\Documents
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
 
 
-
+@echo off
+mkdir %userprofile%\Desktop\DocBackup
+copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
+echo Backup completed successfully!
 
 
 
 
 ## OUTPUT
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/c9ec83f6-a056-4184-8124-df0c065cc7e9)
 
 
 
 
 
-# RESULT:
+## RESULT:
 The commands/batch files are executed successfully.
 
