@@ -54,6 +54,12 @@ dir %userprofile%\Desktop\MyLab
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
+mkdir %userprofile%\Desktop\Backup
+mkdir %userprofile%\Desktop\Backup
+
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/47278c6b-2a0d-45f3-bdb9-2f0cc267fbc3)
+![image](https://github.com/Jeevithaelumalai/Windows-basic-commands-batchscript/assets/118708245/364ae2ec-b6ff-4583-b92f-bbc9533b06d0)
+
 
 
 ## COMMAND AND OUTPUT
